@@ -1,0 +1,88 @@
+.hero{
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    margin-right: 50px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+    
+}
+.Text a{
+    color: black;
+    
+    font-size: 45px;
+    text-decoration: none;
+}
+.Text{
+    width: 750px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:white ;
+    color: dodgerblue;
+    font-size: 16px;
+}
+.Text:hover{
+    width: 750px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:rgb(100, 170, 239) ;
+    color:white;
+    font-size: 16px;
+}
+.subtext{
+    padding-top: 40px;
+    
+}
+.image{
+    width: 650px;
+}
+.pic{
+   width: 500px;
+   
+    
+}
+.hero2{
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-bottom: 30px ;
+    margin-left: 50px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.Text2 a{
+    color: black;
+    
+    font-size: 45px;
+    text-decoration: none;
+}
+.Text2{
+    width: 700px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:white ;
+    color: dodgerblue;
+    font-size: 16px;
+}
+.Text2:hover{
+    width: 700px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:rgb(100, 170, 239) ;
+    color:white;
+    font-size: 16px;
+}
+.subtext2{
+    padding-top: 40px;
+    
+}
+.image2{
+    width: 50px;
+}
+.pic2{
+   width: 350px;
+   
+    
+}
